@@ -1,0 +1,9 @@
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista\bin\Debug\Proyecto-Lista.exe.config
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista\bin\Debug\Proyecto-Lista.exe
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista\bin\Debug\Proyecto-Lista.pdb
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista\obj\Debug\Proyecto-Lista.csprojAssemblyReference.cache
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista\obj\Debug\Proyecto_Lista.Form1.resources
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista\obj\Debug\Proyecto_Lista.Properties.Resources.resources
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista\obj\Debug\Proyecto-Lista.csproj.GenerateResource.cache
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista\obj\Debug\Proyecto-Lista.exe
+C:\Users\Familia Loaiza\source\repos\Proyecto-Lista\obj\Debug\Proyecto-Lista.pdb
