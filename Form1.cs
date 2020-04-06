@@ -40,7 +40,7 @@ namespace Proyecto_Lista
             txtvaloragregar.Focus();
             txtposicion.Clear();
             txtposicion.Focus();
-            MessageBox.Show("EL VALOR FUE INSERTADO EXITOSAMENTE");
+            MessageBox.Show("EL VALOR FUE INSERTADO Y UBICADO EN LA POSICIÓN EXITOSAMENTE");
         }
         private void btneliminarde_Click(object sender, EventArgs e)
         {
@@ -49,6 +49,7 @@ namespace Proyecto_Lista
             txtposicion.Clear();
             txtposicion.Focus();
             Milista.RemoveAt(pos);
+            MessageBox.Show("EL VALOR FUE ELIMINADO DE LA POSICIÓN EXITOSAMENTE");
         }
         private void btneliminar_Click(object sender, EventArgs e)
         {
@@ -57,6 +58,7 @@ namespace Proyecto_Lista
             Milista.Remove(n);
             txtvaloragregar.Clear();
             txtvaloragregar.Focus();
+            MessageBox.Show("EL VALOR FUE ELIMINADO EXITOSAMENTE");
         }
         private void btnmostrar_Click(object sender, EventArgs e)
         {
