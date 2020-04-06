@@ -28,6 +28,7 @@ namespace Proyecto_Lista
             Milista.Add(n);
             txtvaloragregar.Clear();
             txtvaloragregar.Focus();
+            MessageBox.Show("EL VALOR FUE AGREGADO EXITOSAMENTE");
         }
         private void btninsertar_Click(object sender, EventArgs e)
         {
