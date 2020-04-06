@@ -40,6 +40,7 @@ namespace Proyecto_Lista
             txtvaloragregar.Focus();
             txtposicion.Clear();
             txtposicion.Focus();
+            MessageBox.Show("EL VALOR FUE INSERTADO EXITOSAMENTE");
         }
         private void btneliminarde_Click(object sender, EventArgs e)
         {
